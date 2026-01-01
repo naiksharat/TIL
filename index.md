@@ -13,4 +13,4 @@ A collection of concise write-ups on small things I learn day to day across vari
 
 ## 2026
 
-[View all TILs from 2026](/TIL/2026.md/)
+[View all TILs from 2026](2026.md)
