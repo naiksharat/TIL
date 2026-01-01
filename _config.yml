@@ -5,7 +5,11 @@ author: naiksharat
 
 # Build settings
 markdown: kramdown
-permalink: pretty
+permlink: pretty
+
+# Theme settings
+minima:
+  header_pages: []
 
 # Collections
 collections:

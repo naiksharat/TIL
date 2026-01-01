@@ -9,8 +9,8 @@ A collection of concise write-ups on small things I learn day to day across vari
 
 ## 2025
 
-[View all TILs from 2025](2025.html)
+[View all TILs from 2025](/2025/)
 
 ## 2026
 
-[View all TILs from 2026](2026.html)
+[View all TILs from 2026](/2026/)
