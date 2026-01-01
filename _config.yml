@@ -1,0 +1,20 @@
+title: Today I Learned
+description: A collection of concise write-ups on small things I learn day to day
+theme: minima
+author: naiksharat
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# Collections
+collections:
+  posts:
+    output: true
+    permalink: /:year/:month/:day/:title/
+
+# Exclude files
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
